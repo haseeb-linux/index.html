@@ -1,57 +1,52 @@
-# Muhammad Haseeb
+# 👋 Hi, I'm Muhammad Haseeb
 
-**IT Student** | 🐧 **Linux Enthusiast** | 🌐 **Networking Learner**
-
-📍 Virtual University of Pakistan  
-📧 haseebarif112234@gmail.com  
-🐙 [github.com/haseeb-linux](https://github.com/haseeb-linux)
+🎓 **BS Information Technology** | Virtual University of Pakistan  
+🐧 Linux Enthusiast | 🌐 Networking Student | 💻 C++ Learner
 
 ---
 
-## 🎯 Objective
+## 📌 About Me
 
-Passionate IT student currently deepening my knowledge in **Linux/Kali**, **networking fundamentals**, and **C++ programming**.  
-Aiming to build strong technical skills and contribute to open-source projects.
+I'm a passionate IT student currently deepening my skills in **Linux (Kali), networking fundamentals, and C++ programming**.  
+I love hands-on learning — from setting up virtual labs to building small projects and documenting my journey on GitHub.
+
+🔭 I’m currently learning:  
+- Kali Linux (Terminal skills, CTF basics)  
+- Networking (CCNA path, Packet Tracer)  
+- C++ Data Structures  
+
+🌱 I'm also exploring **web technologies** and **open source contributions**.
 
 ---
 
-## 🎓 Education.
+## 🎓 Education
 
 - **BS Information Technology** (in progress)  
-  *Virtual University of Pakistan*
+  *Virtual University of Pakistan*  
+  📍 Relevant coursework: Programming Fundamentals, Networking, Operating Systems
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack
 
 - **OS**: Linux (Kali), Windows  
-- **Languages**: C++, HTML, CSS (basics)  
-- **Tools**: Git, GitHub, VS Code, VirtualBox  
-- **Networking**: Basic IP addressing, Cisco Packet Tracer  
+- **Languages**: C++, HTML/CSS, Python (basics)  
+- **Tools**: VS Code, Git, GitHub, VirtualBox, Packet Tracer  
 
 ---
 
-## 🚀 Currently Learning
+## 📌 For more details — check out my **professional portfolio**:
 
-- Kali Linux (terminal, tools, practice)  
-- Networking (CCNA path)  
-- C++ (DSA fundamentals)  
-- Git & GitHub Pages  
+🌐 [**haseeb-linux.github.io**](https://haseeb-linux.github.io)  
+*(Portfolio includes: personal info, projects, skills, goals & contact)*
 
 ---
 
-## 📌 Projects
+## 📬 Connect with Me
 
-- **GitHub Portfolio** – Personal portfolio hosted on GitHub Pages  
-- **Linux Learning Journal** – Commands and tool logs (coming soon)
-
----
-
-## 📬 Contact
-
-- Email: haseebarif112234@gmail.com  
-- GitHub: [github.com/haseeb-linux](https://github.com/haseeb-linux)
+- **GitHub** – [github.com/haseeb-linux](https://github.com/haseeb-linux)  
+- **Email** – haseebarif112234@gmail.com  
 
 ---
 
-> *"Learning by doing — growing every day as an IT student."*
+⚡ *“Learning by doing — every day a step closer to my goals.”*
