@@ -49,4 +49,4 @@ I love hands-on learning — from setting up virtual labs to building small proj
 
 ---
 
-⚡ *“Learning by doing — every day a step closer to my goals.”*
+⚡ *“Learning by doing every day a step closer to my goals.”*
