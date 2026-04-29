@@ -1,6 +1,6 @@
-# 👨‍💻 Muhammad Haseeb
+# Muhammad Haseeb
 
-🎓 **IT Student** | 🐧 **Linux Enthusiast** | 🌐 **Networking Learner**
+**IT Student** | 🐧 **Linux Enthusiast** | 🌐 **Networking Learner**
 
 📍 Virtual University of Pakistan  
 📧 haseebarif112234@gmail.com  
