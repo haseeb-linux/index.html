@@ -15,7 +15,7 @@ Aiming to build strong technical skills and contribute to open-source projects.
 
 ---
 
-## 🎓 Education
+## 🎓 Education.
 
 - **BS Information Technology** (in progress)  
   *Virtual University of Pakistan*
